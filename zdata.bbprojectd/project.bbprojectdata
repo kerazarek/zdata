@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>698E6AF7-4526-43F2-82E7-350F423D8FE2</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>698E6AF7-4526-43F2-82E7-350F423D8FE2</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va5ADAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAjAIAAAUAAAABAQAAVXNlcnMA
+				AAAHAAAAAQEAAHpzczIwMDIABwAAAAEBAABEcm9wYm94
+				AAoAAAABAQAAcHJvZ3JhbW1pbgAABQAAAAEBAAB6ZGF0
+				YQAAABQAAAABBgAABAAAABQAAAAkAAAANAAAAEgAAAAI
+				AAAABAMAALwwBgAAAAAACAAAAAQDAABm4AwAAAAAAAgA
+				AAAEAwAAT1IWAAAAAAAIAAAABAMAAG1VOwAAAAAACAAA
+				AAQDAADfyJgAAAAAABQAAAABBgAAdAAAAIQAAACUAAAA
+				pAAAALQAAAAIAAAAAAQAAEG+KDRdAAAAGAAAAAECAAAC
+				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAEAAAAAwMAAAMA
+				AAAEAAAAAwMAAP0BAAAIAAAAAQkAAGZpbGU6Ly8vDAAA
+				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAAAAVKXsAAAA
+				CAAAAAAEAABBvNswlgAAACQAAAABAQAANUYyNUYyMjQt
+				RTM2OC0zQzM2LTlFNzEtQUVGQkJDMDhCRDU5GAAAAAEC
+				AACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEA
+				AC8AAAAAAAAAAQUAALgAAAABAgAAMWZjODM5Nzc4MTI0
+				ZmJiNjIxODE1ZGEyOTJkMzJmMzM2YjQzODdiYTswMDAw
+				MDAwMDswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+				bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+				MDAwMDAxOzAxMDAwMDA4OzAwMDAwMDAwMDA5OGM4ZGY7
+				L3VzZXJzL3pzczIwMDIvZHJvcGJveC9wcm9ncmFtbWlu
+				L3pkYXRhAMwAAAD+////AQAAAAAAAAAQAAAABBAAAFgA
+				AAAAAAAABRAAAMQAAAAAAAAAEBAAAPAAAAAAAAAAQBAA
+				AOAAAAAAAAAAAiAAALgBAAAAAAAABSAAACgBAAAAAAAA
+				ECAAADgBAAAAAAAAESAAAGwBAAAAAAAAEiAAAEwBAAAA
+				AAAAEyAAAFwBAAAAAAAAICAAAJgBAAAAAAAAMCAAAMQB
+				AAAAAAAAAcAAABABAAAAAAAAEcAAABQAAAAAAAAAEsAA
+				ABwBAAAAAAAAgPAAAMwBAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/zss2002/Dropbox/programmin/zdata/</string>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>zdata</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>

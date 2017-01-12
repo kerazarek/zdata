@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:zss2002</key>
+	<false/>
+	<key>ExpandedEditorWidth:zss2002:displays([(0, 0), (2560, 1440)])</key>
+	<integer>716</integer>
+	<key>ExpandedItems:zss2002</key>
+	<array>
+		<string>698E6AF7-4526-43F2-82E7-350F423D8FE2</string>
+	</array>
+	<key>FileFilterMode:zss2002</key>
+	<integer>0</integer>
+	<key>OpenDocuments:zss2002</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.6005939245223999</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:zss2002</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:zss2002</key>
+	<false/>
+	<key>ToolbarVisible:zss2002</key>
+	<false/>
+	<key>ViewSplitterPosition:zss2002</key>
+	<real>0.29941290616989136</real>
+	<key>WindowFrame:zss2002:displays([(0, 0), (2560, 1440)])</key>
+	<string>rect(89,44,1436,1066)</string>
+</dict>
+</plist>
